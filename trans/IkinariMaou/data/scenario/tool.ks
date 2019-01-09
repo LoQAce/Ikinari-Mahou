@@ -133,7 +133,7 @@ divelleremo il castello dell'Arcidemone!
 Cosa mai può andar storto?
 [l  ]
 [r  ]
-"(Firma illeggibile che inizia per P")""
+(Firma illeggibile che inizia per P)
 [p  ]
 [jump  storage="battle.ks"  target="*counter_arcenemy"  ]
 *brave_letter

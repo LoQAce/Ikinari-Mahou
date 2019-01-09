@@ -80,7 +80,7 @@ Sono lo tuo più caro gran maestro!
 Portami rispetto e a maraviglia tutto andrà!
 [p  ]
 [playse  storage="01_b_008.ogg"  loop="false"  ]
-Tuttavia per il momento... Addio!
+Tuttavia per lo momento... Addio!
 [p  ]
 [image  layer="1"  page="fore"  visible="true"  top="265"  left="332"  time="0"  storage="/arcenemy/1_title/title_chara.gif"  ]
 [layopt  layer="message"  visible="false"  ]
